@@ -14,7 +14,7 @@ Education
 * M.S. in Acedamy in Advanced Interdisciplinary Studies, Peking University, 2025(Expected)
 * B.S. in EECS, Peking University, 2022
 
-Work experience
+Project
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -33,12 +33,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 英语水平
+  *CET-6 580   
+* 编程水平
+  * C++
+  * Python
+  * 熟练使用Linux命令行
+* 有良好的沟通能力与抗压能力
 
 Publications
 ======
